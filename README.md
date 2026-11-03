@@ -18,6 +18,7 @@ git clone https://github.com/thisgusto/This_MusicManagerMhanz.git
 Running
 
 chmod +x play.sh && ./MMM.sh
+
 Install as comMhanz
 
 sudo ln -s "$HOME/MMM.sh" /usr/local/bin/scarica-album
