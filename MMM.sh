@@ -172,7 +172,7 @@ scarica_playlist() {
     echo "Destinazione: $CARTELLA"
     echo "Formato: ${FORMATO^^}"
     echo
-    read -r -p "Eseguire in background? (s/n): " BG
+    read -r -p "Eseguire in background? (s/N): " BG
 
     if [[ "$BG" =~ ^[Ss]$ ]]; then
         avvia_background "playlist" "$URL" "$CARTELLA" "$FORMATO"
@@ -202,7 +202,7 @@ scarica_singolo() {
 
     [[ -z "$URL" ]] && return
 
-          read -r -p "Eseguire in background? (s/n): " BG
+          read -r -p "Eseguire in background? (s/N): " BG
 
     if [[ "$BG" =~ ^[Ss]$ ]]; then
         avvia_background "singolo" "$URL" "$DESTINO" "$FORMATO"
