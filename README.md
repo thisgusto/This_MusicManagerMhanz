@@ -1,7 +1,7 @@
 Welcome to the This_MusicManagerMhanz Readme!
 
 
-" Hoffattona roba per provare discord e tipo è figo "
+" Hoffattona roba per provare github e tipo è figo "
 -Yuri CEO of nothing
 
 Programma solo per intorno Shell quindi Shelli bene
