@@ -10,7 +10,7 @@ Programma solo per intorno Shell quindi Shelli bene
 Requires : Saper contare fino a 6
 
 
-La documentazione richiede piú Mhanz possibili quindi per un commit almeno un mhanz
+La documentazione richiede piú Mhanz (check wiki) possibili quindi per un commit almeno un mhanz
 
 Downloading
 
