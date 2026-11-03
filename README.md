@@ -21,3 +21,6 @@ chmod +x play.sh && ./MMM.sh
 Install as comMhanz
 
 sudo ln -s "$HOME/MMM.sh" /usr/local/bin/scarica-album
+
+
+Contiene AI GENERATED CONTENT e non ne sono contento (basta?)
