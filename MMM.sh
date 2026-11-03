@@ -189,7 +189,6 @@ scarica_playlist() {
         fi
     fi
     echo
-    echo "Download playlist terminato."
 }
 
 # ==========================================
@@ -220,7 +219,6 @@ scarica_singolo() {
         fi
     fi
     echo
-    echo "Download singolo terminato."
 }
 
 # ==========================================
